@@ -1,0 +1,23 @@
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/FolderCleaner.exe.config
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/FolderCleaner.exe
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/FolderCleaner.pdb
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/ICSharpCode.SharpZipLib.dll
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/ICSharpCode.SharpZipLib.pdb
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/bin/Debug/System.IO.Abstractions.dll
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/obj/Debug/FolderCleaner.csproj.AssemblyReference.cache
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/obj/Debug/FolderCleaner.csproj.CoreCompileInputs.cache
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/obj/Debug/FolderCleaner.csproj.CopyComplete
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/obj/Debug/FolderCleaner.exe
+/Users/alex/RiderProjects/youtube_bad_code_example/FolderCleaner/obj/Debug/FolderCleaner.pdb
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\FolderCleaner.exe.config
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\FolderCleaner.exe
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\FolderCleaner.pdb
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\bin\Debug\System.IO.Abstractions.dll
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.csproj.AssemblyReference.cache
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.csproj.SuggestedBindingRedirects.cache
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.csproj.CoreCompileInputs.cache
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.csproj.CopyComplete
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.exe
+C:\Users\ritmh\OneDrive\Рабочий стол\FolderCleaner\obj\Debug\FolderCleaner.pdb
